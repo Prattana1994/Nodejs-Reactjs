@@ -64,7 +64,7 @@ function FormProduct() {
     
   return (
     <div>
-        <h2>Hello Test</h2>
+        <h2>Hello Test Jelly</h2>
         <form onSubmit={handleSubmit}>
             <input type='text' name='name' placeholder='name' onChange={handleChange}/><br />
             <input type='text' name='detail' placeholder='detail' onChange={handleChange}/><br />
