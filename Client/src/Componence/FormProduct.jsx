@@ -55,7 +55,7 @@ function FormProduct() {
         console.log(res.data)
         lodeData()
         }).catch((err) => {
-            console.log(err)
+       
         })
     }
 
